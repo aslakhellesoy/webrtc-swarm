@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "electron-webrtc": "^0.3.0",
-    "signalhub": "^4.7.1",
+    "signalhub": "aslakhellesoy/signalhub",
     "standard": "^12.0.1",
     "tape": "^4.6.0"
   },
